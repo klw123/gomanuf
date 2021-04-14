@@ -21,3 +21,5 @@ log.Print(m2) // Xiaomi Communications Co Ltd
 
 ```
 
+manuf文件是由IEEE统一发布并定期更新，链接
+http://standards-oui.ieee.org/oui/oui.txt
